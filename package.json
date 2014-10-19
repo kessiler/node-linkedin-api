@@ -1,27 +1,27 @@
 {
-  "name": "node-linkedin-api",
-  "version": "0.0.0",
-  "description": "Simple module for using LinkedIn API in node.js",
-  "author": "Kessiler Rodrigues",
-  "license": "MIT",
-  "main": "index.js",
-  "dependencies": {
-      "oauth": ">=0.9.12"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/kessiler/node-linkedin-api.git"
-  },
-  "keywords": [
-    "linkedin",
-    "oauth",
-    "rest"
-  ],
-  "engines": {
-    "node": ">=0.4.0"
-  },
-  "homepage": "https://github.com/kessiler/node-linkedin-api",
-  "bugs": {
-    "url": "https://github.com/kessiler/node-linkedin-api/issues"
-  }
+    "name": "node-linkedin-api",
+    "version": "0.0.0",
+    "description": "Simple module for using LinkedIn API in node.js",
+    "author": "Kessiler Rodrigues",
+    "license": "MIT",
+    "main": "index.js",
+    "dependencies": {
+        "oauth": ">=0.9.12"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kessiler/node-linkedin-api.git"
+    },
+    "keywords": [
+        "linkedin",
+        "oauth",
+        "rest"
+    ],
+    "engines": {
+        "node": ">=0.4.0"
+    },
+    "homepage": "https://github.com/kessiler/node-linkedin-api",
+    "bugs": {
+        "url": "https://github.com/kessiler/node-linkedin-api/issues"
+    }
 }
